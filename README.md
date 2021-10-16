@@ -1,5 +1,5 @@
 # Lojinha Web Automação
-Esse é um repositório que contém a automação de alguns teste de Mobile de  um software chamado lojinha, do curso "Programa de Testes e Qualidade de Software". Os sub-tópicos abaixo descrevem algumas decisões tomadas na estruturação do projeto.
+Esse é um repositório que contém a automação de alguns teste de aplicação Mobile de um software chamado lojinha, do curso "Programa de Testes e Qualidade de Software". Os sub-tópicos abaixo descrevem algumas decisões tomadas na estruturação do projeto.
 
 ## Tecnologias Utilizadas
 
